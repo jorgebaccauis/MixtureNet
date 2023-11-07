@@ -1,8 +1,10 @@
-# INTERPRETABLE MULTIPLE LOSS FUNCTIONS IN A LOW-RANK DEEP IMAGE PRIOR BASED METHOD FOR SINGLE HYPERSPECTRAL IMAGE SUPER-RESOLUTION
-This repository provides the Python source codes related to the conference "INTERPRETABLE MULTIPLE LOSS FUNCTIONS IN A LOW-RANK DEEP IMAGE PRIOR BASED METHOD FOR SINGLE HYPERSPECTRAL IMAGE SUPER-RESOLUTION" presented in EUSIPCO 2021. 
-
+# Mixture-Net: Low-rank deep image prior inspired by mixture models for spectral image recovery
+This repository provides the Python source codes related to the paper "Mixture-Net: Low-rank deep image prior inspired by mixture models for spectral image recovery"
+https://doi.org/10.1016/j.sigpro.2023.109296
+[![DOI:10.1109/TCI.2021.3122285](https://zenodo.org/badge/DOI/10.1016/j.sigpro.2023.109296.svg)](https://doi.org/10.1016/j.sigpro.2023.109296)
+[![arxiv.org](https://img.shields.io/badge/cs.CV-arXiv%3A2211.02973-B31B1B.svg)](https://arxiv.org/pdf/2211.02973.pdf)
 # Installation
-
+https://arxiv.org/pdf/2211.02973.pdf
 List of libraries required to execute the code.:
 - python = 3.7.7
 - Tensorflow = 2.2
